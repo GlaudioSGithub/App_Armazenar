@@ -1,0 +1,5 @@
+Terminal:
+uvicorn main:app --reload
+
+Navegador:
+http://127.0.0.1:8000/docs
